@@ -1,0 +1,11 @@
+Files insterted to
+syscall.c
+syscall.h
+user.h
+sysproc.c
+proc.c
+defs.h
+usys.S
+
+
+Inserted int magic to struct proc in proc.h

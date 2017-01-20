@@ -1,0 +1,8 @@
+usertest.c Has what you need to get it working.
+
+forkexectest 100 that will spawn off two different process, one high
+priority one low priority
+
+Might have to put some sleeps in there to see the effect. 
+We want them to interlace so we can see the back and forth.
+
